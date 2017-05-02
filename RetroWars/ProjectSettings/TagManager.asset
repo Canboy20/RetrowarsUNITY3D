@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball
+  - Player1
+  - Player2
+  - Collectibles
+  - Player1Sheild
+  - Player2Sheild
+  - Sheild
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerBackObjects
+    uniqueID: 3173277887
+    locked: 0
+  - name: Player
+    uniqueID: 3045926435
+    locked: 0
+  - name: VeryCloseObjects
+    uniqueID: 338918223
+    locked: 0
